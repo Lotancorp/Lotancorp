@@ -1,36 +1,62 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# 👋 Hello, I'm Taufan
 
-I'm Taufan, a passionate **hotelier**, **customer service expert**, and **receptionist** from Indonesia with a unique interest in **game design** and **philosophy**. While my main profession revolves around hospitality, I find immense joy in exploring the realms of **2D and 3D game development** and expressing creativity through **digital design**.
+A quiet knight walking between worlds — hotelier by profession, creator by passion.
 
-## About Me 🌟
+I'm a seasoned hospitality professional from Indonesia with over a decade of experience in customer service and front office operations. But behind the uniform, I'm a digital artisan — diving deep into 2D/3D game design, reverse engineering, Python development, and UI/UX experimentation. 
 
-- 💼 **Profession**: Hotelier by day, with extensive experience in customer service, ensuring unforgettable experiences for guests.
-- 🖌️ **Hobbies**: Game development (2D & 3D), reading philosophical books, and diving into unique thoughts and ideas.
-- 🎮 **Gamer** at heart, constantly exploring new virtual worlds and gameplay mechanics.
-- ☕ **Coffee Enthusiast**: I enjoy a good cup of Arabica coffee, especially those without sugar.
+This GitHub is where I document my evolution — not just as a coder or designer, but as a human trying to harmonize logic, aesthetics, and meaning.
+
+---
+
+### 🧭 What I Do (By Day and By Choice)
+
+- 💼 **Hotelier & Customer Experience Lead**  
+  Since 2013, delivering world-class hospitality while managing people, systems, and stories.
   
-## Tech & Skills 🛠️
+- 🖥️ **Game Modder & Asset Designer**  
+  Creating custom skins, particles, and models for RF Online and similar games. Proficient with Blender, 3DS Max, Photoshop, and DDS workflows.
 
-Though my primary expertise lies in the hospitality industry, I’m a quick learner and have picked up various tech skills that complement my creative projects:
+- 💻 **Indie Developer**  
+  Working on desktop apps with Python (ttkbootstrap) and building intuitive web tools using HTML, CSS, JavaScript — all without needing admin access.
 
-- **Game Design**: Familiar with tools for **2D and 3D game development**.
-- **3D Modeling**: Proficient with **Blender**, currently learning **texture painting**.
-- **Programming**: Comfortable with **HTML, CSS, and JavaScript** for web development and exploring **VBA for Excel** and **Python for GUI applications**.
-- **File Handling**: Experienced in managing **DDS**, **MSH**, **BN**, and **BBX** files, and creating optimized workflows for these formats.
+- 🔎 **Reverse Engineer (Beginner Level)**  
+  Tinkering with `.rpk`, `.spr`, `.spt`, `.msh`, and Unreal `.pak` file structures, converting them into usable assets for creative modding.
 
-## Current Projects 🌐
+---
 
-- **Text File Extractor**: Developing a web-based tool for users to import, extract, search, and save text files. Features include light/dark themes and easy file handling.
-- **Particle by Quartz Gallery**: Working on a specialized JavaScript-based tool for extracting text, handling themes, and organizing structured data.
+### 🔧 Skills & Tools
 
-## Fun Facts 🎉
+- **3D Design**: Blender, 3DS Max, UV Mapping, Texture Painting  
+- **Programming**: Python (GUI, File IO, Automation), JavaScript, HTML/CSS, VBA for Excel  
+- **Toolmaking**: File editors, task managers, app launchers, and particle effect viewers  
+- **File Handling**: DDS, MSH, BN, BBX, INI, SPT, and other game-specific formats  
+- **Web Deployment**: GitHub Pages, Progressive Web Apps (PWA), Cloudinary  
+- **Reverse Engineering**: QuickBMS, FModel, UModel, Ghidra, Hex analysis (basic level)
 
-- I have an interest in **progressive web apps** (PWA) and **reverse engineering** as ways to deepen my understanding of software development.
-- **Health Journey**: Balancing my passion for coffee with careful attention to my health stats (like blood pressure and cholesterol), while planning to incorporate more active habits over time.
-- **Open to Learning**: I’m always curious about **new technologies** and look forward to growing my skills, especially in Excel and creative software.
+---
 
-## Let's Connect 🤝
+### 🛠️ Current Projects
 
-I'm open to collaborations, especially in areas where hospitality and tech intersect. Feel free to reach out if you're interested in a project, have advice on my learning path, or just want to talk about coffee and games!
+- **Compass ToDo**: A full-featured Python-based task manager with subtask toggles, dark/light mode, Google Drive sync, and priority-based sorting.  
+- **Quartz Gallery App**: All-in-one toolkit for RF Online skin editing, particle tools, and file log automation.  
+- **Text File Extractor**: JavaScript-based tool for parsing and editing `.txt`/`.ini` files with built-in search, theming, and downloadable results.  
+- **Macro Launcher**: App for launching your most-used programs via keyboard+mouse combo with Logitech G502.
 
-Thanks for stopping by! 😊
+---
+
+### ☕ A Bit About Me
+
+- I thrive in silence, but my imagination roars.
+- I sleep within seconds, dream in layers, and often wake with full ideas.
+- My creations often reflect my inner world: a solitary knight, armored in shadow and purpose.
+- I’m not chasing fame, just meaning.
+- Coffee? Arabica, no sugar. Just like I like my code — clean and sharp.
+
+---
+
+### 📫 Let’s Connect
+
+Whether you’re into hospitality, design, code, or existential philosophy — I’m always open to exchanging ideas or collaborating on thoughtful projects.  
+You can visit my digital home at [www.quartzgallery.biz.id](http://www.quartzgallery.biz.id) or explore my work here on GitHub.
+
+Thanks for visiting this space of mine. May your code be bug-free and your purpose stay clear.
